@@ -1,0 +1,7 @@
+Think about your behavior DURING THE LAST 2 WEEKS and for each question, use 
+the following scale to rate your behavior:
+
+1 = No or not true
+2 = Somewhat or sometimes true
+3 = Very much or often true
+4 = Almost always or always true
